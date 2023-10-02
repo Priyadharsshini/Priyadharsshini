@@ -67,16 +67,12 @@ I'm on an exciting journey of continuous learning, focusing on two key areas:
 - Exploring state management with Redux and context API.
 - Learning modern web development practices with JavaScript ES6+.
 
-![React Logo](images/react-logo.png)
-
 
 ### Data Structures and Algorithms 🌐
 
 - Strengthening problem-solving skills through data structures and algorithms.
 - Practicing efficient algorithms for sorting, searching, and graph traversal.
 - Analyzing time and space complexity to optimize code.
-
-![Data Structures](images/data-structures.png)
 
 
 ## 🌐 Connect with Me
