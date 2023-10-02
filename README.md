@@ -57,6 +57,28 @@ Cognizant Technology Solutions, Client - CISCO, Chennai, India | July 2016 - Sep
 - NIIT Academy certification in C/C++ Programming and Data Structures (July 2012 - June 2013).
 - Current 'Vice President' of the 'Indian Youth Association' at Memorial University.
 
+## Currently Learning 📚
+
+I'm on an exciting journey of continuous learning, focusing on two key areas:
+
+### Front-End Development with React 🚀
+
+- Building dynamic and responsive web applications using React.
+- Exploring state management with Redux and context API.
+- Learning modern web development practices with JavaScript ES6+.
+
+![React Logo](images/react-logo.png)
+
+
+### Data Structures and Algorithms 🌐
+
+- Strengthening problem-solving skills through data structures and algorithms.
+- Practicing efficient algorithms for sorting, searching, and graph traversal.
+- Analyzing time and space complexity to optimize code.
+
+![Data Structures](images/data-structures.png)
+
+
 ## 🌐 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/priyadharsshinisakrapani/)
