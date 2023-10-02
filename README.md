@@ -12,12 +12,6 @@ I'm a results-driven software engineer with more than 6 years of experience spec
 - 🧪 Familiarity with testing frameworks like Cucumber and JUnit.
 - 🐳 Proficient in Docker, GitHub, Kubernetes, and other DevOps tools.
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsshini)](https://github.com/Priyadharsshini/github-readme-stats)
-
-Here are the programming languages I've been using the most in my GitHub repositories. 
-
 
 ## 🌟 Professional Experience
 
@@ -73,8 +67,14 @@ I'm on an exciting journey of continuous learning, focusing on two key areas:
 - Strengthening problem-solving skills through data structures and algorithms.
 - Practicing efficient algorithms for sorting, searching, and graph traversal.
 - Analyzing time and space complexity to optimize code.
-  
 
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsshini)](https://github.com/Priyadharsshini/github-readme-stats)
+
+Here are the programming languages I've been using the most in my GitHub repositories. 
+
+  
 ## 🌐 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/priyadharsshinisakrapani/)
