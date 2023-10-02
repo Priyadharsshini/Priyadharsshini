@@ -16,7 +16,7 @@ I'm a results-driven software engineer with more than 6 years of experience spec
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharsshini)](https://github.com/Priyadharsshini/github-readme-stats)
 
-Here are the programming languages I've been using the most in my GitHub repositories. Click on the image for more details.
+Here are the programming languages I've been using the most in my GitHub repositories. 
 
 
 ## 🌟 Professional Experience
